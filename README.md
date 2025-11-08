@@ -1,4 +1,4 @@
-# LEARNING C 
+# University_Course_C
 
 What I learned during my University C language course. 
 
